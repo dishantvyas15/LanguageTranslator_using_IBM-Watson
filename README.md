@@ -6,4 +6,4 @@ You would require an IBM cloud account for getting access to the LanguageTransla
 
 To run the script without any glitches, consider the requirements.txt file (at https://github.com/dishantvyas15/LanguageTranslator_using_IBM-Watson/blob/master/requirements.txt) and make sure you have all the required libraries installed on your (virtual) environment.
 
-Used Packages: ibm_watson wget, pandas, numpy
+Used Packages: ibm_watson wget, pandas
